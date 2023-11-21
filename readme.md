@@ -1,6 +1,7 @@
-Este repositorio contiene el paper "" presentado por Jorge Petrosino, Georgina Lizaso y Franco Jofré en el 12º Congreso Iberoamericano de Acústica.
+# Evaluación de técnicas de crosstalk aéreo utilizando el método pseudo espectral (PSTD)
+Este repositorio contiene el paper "Evaluación de técnicas de crosstalk aéreo utilizando el método pseudo espectral (PSTD)" presentado por Jorge Petrosino, Georgina Lizaso y Franco Jofré en el 12º Congreso Iberoamericano de Acústica.
 
-Resumen:
+## Resumen:
 Las técnicas de cancelación de crosstalk aéreo (XTC) buscan que cada oído reciba una señal diferente con mínima
 interferencia entre señales. Esto requiere procesarlas mediante retardos, inversiones o alteraciones espectrales
 para cancelar el crosstalk acústico que ocurre cuando llega al oído izquierdo señal de la derecha y viceversa.
@@ -19,7 +20,7 @@ k en el dominio del tiempo (PSTD). Los resultados muestran que se alcanza un niv
 lograr percepción binaural y que la simulación en el dominio del tiempo con el método pseudo espectral puede
 considerarse una herramienta útil para la evaluación de técnicas de XTC
 
-Abstract:
+## Abstract:
 Crosstalk Cancellation for binaural audio through loudspeakers (XTC-BAL) techniques seek to ensure that each
 ear receives a different signal with minimal interference between them. Processing the signals through delays,
 inversions, or spectral alterations is required to cancel the acoustic crosstalk from the right channel to the left
