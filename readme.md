@@ -37,6 +37,7 @@ Matlab toolbox, named k-Wave, which solves differential equations of acoustic wa
 k-space pseudo-spectral method in the time domain (PSTD). Results show an adequate XTC level to achieve
 binaural perception and suggest PSTD simulations can be considered helpful in evaluating XTC techniques.
 
+## Contenido del repositorio
 Además se encuentran 4 audios, un par de audios binaurales sin procesamiento y estos mismos audios procesados con la técnica que se investigó para ser reproducidos en un parlante JBL Flip 4. 
  - Binaural_Match_Sticks.wav y Haircut16-44p1.wav son audios binaurales (para escuchar con auriculares)
  - JBLBinaural_Match_Sticks.wav y JBLHaircut16-44p1.wav son las versiones de los audios anteriores procesadas para ser reproducidas con el JBL Flip 4.
